@@ -1,4 +1,4 @@
-package day26_CustomMethodsPractice.day21_ForEachLoop;
+package day21_ForEachLoop;
 
 public class AverageNumber {
     public static void main(String[] args) {

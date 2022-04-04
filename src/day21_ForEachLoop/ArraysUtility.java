@@ -1,4 +1,4 @@
-package day26_CustomMethodsPractice.day21_ForEachLoop;
+package day21_ForEachLoop;
 
 import java.awt.image.AreaAveragingScaleFilter;
 import java.util.Arrays;

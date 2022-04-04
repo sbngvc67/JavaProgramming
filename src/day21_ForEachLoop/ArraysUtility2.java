@@ -1,4 +1,4 @@
-package day26_CustomMethodsPractice.day21_ForEachLoop;
+package day21_ForEachLoop;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

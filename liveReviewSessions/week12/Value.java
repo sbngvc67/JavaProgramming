@@ -13,8 +13,9 @@ constructor was used to create the object, getVal returns the value passed to th
 Otherwise getVal returns 0.
      */
 
-    int param=0;
+    int param;
     boolean calledMethod=false;
+    boolean calledConstructor=false;
     public Value(){}
     public Value(int param){ //single parameter
         this.param=param;
@@ -28,6 +29,18 @@ Otherwise getVal returns 0.
         if (this.calledMethod)
             return true;
         return false;
+    }
+    public int getValue(){
+        /*
+        if (this.calledMethod){
+            return this.param;
+        }else if(calledMethod){
+            return this.param;
+        }else {
+            return this.param;
+        }
+         */
+        return this.param;
     }
 
 
