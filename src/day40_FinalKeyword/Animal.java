@@ -9,8 +9,6 @@ public class Animal {
     private String size;
     private int age;
 
-
-
     public Animal(String name, String breed, char gender, String color, String size, int age) {
         this.name = name;
         this.breed = breed;
@@ -58,4 +56,15 @@ public class Animal {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public void eat(){
+        System.out.println(name + " is eating");
+    }
+
+    public void drink(){
+        System.out.println(name + " is drinking");
+    }
+
+
+
 }
