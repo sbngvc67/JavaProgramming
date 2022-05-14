@@ -1,4 +1,4 @@
-package day35_Encapsulation.day03_EscapeSequences;
+package day03_EscapeSequences;
 /*
 Escape Sequences: MUST be given double quote
     \n: starts a new line

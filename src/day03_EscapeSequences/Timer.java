@@ -1,4 +1,4 @@
-package day35_Encapsulation.day03_EscapeSequences;
+package day03_EscapeSequences;
 
 import java.util.Scanner;
 

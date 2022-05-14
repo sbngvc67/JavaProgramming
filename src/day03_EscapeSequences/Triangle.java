@@ -1,4 +1,4 @@
-package day35_Encapsulation.day03_EscapeSequences;
+package day03_EscapeSequences;
 
 public class Triangle {
     public static void main(String[] args) {
